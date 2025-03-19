@@ -45,7 +45,6 @@ The model was trained on a large dataset of images and is designed to predict pl
 - **Grayscale-to-Color Conversion**: Convert grayscale images to colorized versions using the DDColor model.
 - **Real-Time Processing**: Optimized for on-device processing with Core ML and Vision frameworks.
 - **User-Friendly Interface**: Simple iOS app interface for uploading images and viewing results.
-- **Customizable Parameters**: Adjust model parameters (e.g., temperature, contrast) for fine-tuned results.
 
 ---
 
@@ -128,7 +127,7 @@ Contributions are welcome! If you’d like to contribute to this project, please
 
 ## Acknowledgments
 
-**piddnad**: For developing the original DDColor model.
+[**piddnad**](https://github.com/piddnad): For developing the original DDColor model.
 
 **Apple**: For providing Core ML and Vision frameworks.
 
