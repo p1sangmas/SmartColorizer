@@ -79,7 +79,7 @@ Reddish Tint             |  Blueish Tint
    - Quantize the Core ML model to reduce its size and improve inference speed.
    - Use Metal Performance Shaders (MPS) for hardware-accelerated processing.
 4. **Input Image Constraints**:
-   - Implement better image resizing algorithms (e.g., Lanczos interpolation) to maintain image quality.
+   - Implement better image resizing algorithms.
    - Add support for variable input sizes by modifying the Core ML model.
 
 ---
@@ -140,6 +140,4 @@ Contributions are welcome! If you’d like to contribute to this project, please
 
 ---
 
-## Contact
-
-For questions or feedback, please open an issue on GitHub or contact the project maintainer.
+Designed by **Fakhrul Fauzi**. Original model developed by [**piddnad**](https://github.com/piddnad).
