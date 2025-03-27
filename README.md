@@ -56,6 +56,9 @@ The model was trained on a large dataset of images and is designed to predict pl
 ---
 
 ## Known Issues
+
+![test1](./images/test1.png)   ![test2](./images/test2.png)
+
 1. **Blueish Tint in Output**: The colorized images sometimes have a blueish tint due to incorrect channel order or pixel format issues.
 2. **Model Accuracy**: The model occasionally produces unrealistic colorizations, especially for complex or abstract images.
 3. **Performance on Older Devices**: The model may be slow on older iOS devices with limited computational resources.
